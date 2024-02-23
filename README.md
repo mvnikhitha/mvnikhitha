@@ -4,7 +4,7 @@ I'm M V Nikhitha, a passionate Software Engineer. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I’m currently an Intern
+- 🔭 I’m currently an Student looking for opportunities
 - 🌱 I’m currently in Btech 2nd year studying in Christ University,Bangalore.
 - 👯 I’m looking to collaborate on Machine learning
 - 📫 How to reach me: nikhithamalaramuthan@gmail.com.
