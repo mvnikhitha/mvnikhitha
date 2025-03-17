@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Passionate+Software+Engineer;Machine+Learning+Enthusiast;AI+Explorer;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcy2kU80XfaT9q8/giphy.gif" width="150" height="150" />
+  <br>
+  <strong>Hi There! 👋</strong>
+</p>
+
 ---
 
 ## 🚀 About Me
