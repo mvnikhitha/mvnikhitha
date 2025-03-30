@@ -23,7 +23,6 @@
 - 🥇 **Google AI Essentials Badge**
 - 📚 **Stanford's Advanced Learning Algorithms Course**
 - 🧬 **ML Models for Breast Cancer Detection & Reservoir Depth Estimation**
-- 🌱 **Pursuing AI-driven Climate Change & Agriculture Research**
 - 💡 **Participated in Smart India Hackathon (SIH) with AI/ML models**
 
 ---
@@ -58,8 +57,6 @@
 ## 📚 Latest Projects
 
 - 🚑 **Breast Cancer Detection** using CNN and Transfer Learning  
-- 💧 **Reservoir Depth Estimation** with Machine Learning Models  
-- 🌱 **AI-Driven Agriculture Analysis** for Climate Change Mitigation  
 - 🧠 **Autism Behavior Trend Analysis** using ML Visualization  
 - 👩‍⚕️ **Women's Health Website** - UI/UX Prototype in Figma & Development with HTML, CSS, and JS  
 
@@ -70,8 +67,6 @@
 - 📖 Pursue **AI/ML Research Internships** at top institutes  
 - 🌌 Deepen knowledge in **Astrophysics & Quantum Technologies**  
 - 💡 Build impactful **AI models** to address **Climate Change Challenges**  
-- 🏆 Secure Rank **#1** in B.Tech by improving exam strategies  
-
 ---
 
 ## 📫 Connect with Me
