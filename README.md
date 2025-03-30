@@ -49,8 +49,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhitha1202&show_icons=true&theme=radical&hide_border=true" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhitha1202&theme=radical&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mvnikhitha&show_icons=true&theme=radical&hide_border=true" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mvnikhitha&theme=radical&hide_border=true" height="150px"/>
 </p>
 
 ---
@@ -89,12 +89,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
   <br>
-  I believe **"Every problem has a solution waiting to be discovered!"** ✨
+  I believe "Every problem has a solution !"✨
 </p>
 
 ---
 
-## 🎨 Animated Hello!
+## 🎨 Hello!
 
 <p align="center">
   <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="200" height="200" />
