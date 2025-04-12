@@ -58,7 +58,7 @@
 
 - 🚑 **Breast Cancer Detection** using CNN and Transfer Learning  
 - 🧠 **Autism Behavior Trend Analysis** using ML Visualization  
-- 👩‍⚕️ **Women's Health Website** - UI/UX Prototype in Figma & Development with HTML, CSS, and JS  
+- ⛅ **Weather Agent** - Development of weather activity chatbot using API and Tailwind CSS
 
 ---
 
