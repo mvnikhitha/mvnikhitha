@@ -58,14 +58,13 @@
 
 - 🚑 **Alzheimer Classification and Detection** using CNN and MATLAB with GUI 
 - 🧠 **Autism Behavior Trend Analysis** using ML Visualization  
-- ⛅ **Weather Agent** - Development of weather activity chatbot using API and Tailwind CSS
+- ⛅ **Weather Agent** Development of weather activity chatbot using API and Tailwind CSS
 
 ---
 
 ## 🎯 Goals for 2025
 
 - 📖 Pursue **AI/ML Research Internships** at top institutes  
-- 🌌 Deepen knowledge in **Astrophysics & Quantum Technologies**  
 - 💡 Build impactful **AI models** to address **Climate Change Challenges**  
 ---
 
