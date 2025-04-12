@@ -56,7 +56,7 @@
 
 ## 📚 Latest Projects
 
-- 🚑 **Breast Cancer Detection** using CNN and Transfer Learning  
+- 🚑 **Alzheimer Classification and Detection** using CNN and MATLAB with GUI 
 - 🧠 **Autism Behavior Trend Analysis** using ML Visualization  
 - ⛅ **Weather Agent** - Development of weather activity chatbot using API and Tailwind CSS
 
