@@ -37,9 +37,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -47,10 +44,8 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvnikhitha&show_icons=true&theme=radical&hide_border=true" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mvnikhitha&theme=radical&hide_border=true" height="150px"/>
-</p>
+<p align="center"> <img src="https://ghchart.rshah.org/Nikhitha1202" alt="Nikhitha1202's Github chart" /> 
+  <br> <em>
 
 ---
 
@@ -60,12 +55,6 @@
 - 🧠 **Autism Behavior Trend Analysis** using ML Visualization  
 - ⛅ **Weather Agent** Development of weather activity chatbot using API and Tailwind CSS
 
----
-
-## 🎯 Goals for 2025
-
-- 📖 Pursue **AI/ML Research Internships** at top institutes  
-- 💡 Build impactful **AI models** to address **Climate Change Challenges**  
 ---
 
 ## 📫 Connect with Me
