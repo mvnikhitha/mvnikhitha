@@ -44,9 +44,9 @@
 
 ## 📈 GitHub Stats
 
-<p align="center"> <img src="https://ghchart.rshah.org/Nikhitha1202" alt="Nikhitha1202's Github chart" /> 
-  <br> <em>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhitha1202&show_icons=true&count_private=true&hide=stars,prs,issues&custom_title=My%20GitHub%20Contributions&theme=radical&hide_border=true" />
+</p>
 ---
 
 ## 📚 Latest Projects
