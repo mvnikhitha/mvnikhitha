@@ -45,7 +45,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhitha1202&show_icons=true&count_private=true&hide=stars,prs,issues&custom_title=My%20GitHub%20Contributions&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mvnikhitha&show_icons=true&count_private=true&hide=stars,prs,issues&custom_title=My%20GitHub%20Contributions&theme=radical&hide_border=true" />
 </p>
 ---
 
