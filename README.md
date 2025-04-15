@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mvnikhitha&show_icons=true&count_private=true&hide=stars,prs,issues&custom_title=My%20GitHub%20Contributions&theme=radical&hide_border=true" />
 </p>
----
+
 
 ## 📚 Latest Projects
 
