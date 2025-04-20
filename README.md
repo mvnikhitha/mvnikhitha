@@ -1,7 +1,7 @@
 ## 🎉 Hi there! 👋 I'm [M V Nikhitha](https://github.com/Nikhitha1202) 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=500&lines=Passionate+Software+Engineer;Machine+Learning+Enthusiast;AI+Explorer;Aspiring+Scientist;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=500&lines=Passionate+Data Science+Engineer;Machine+Learning+Enthusiast;AI+Explorer;Aspiring+Scientist;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 ---
