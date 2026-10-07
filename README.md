@@ -12,4 +12,4 @@ I’m a **Student Researcher at KIST (Korea Institute of Science and Technology)
 
 ### 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/m-v-nikhitha1202/) · [GitHub](https://github.com/Nikhitha1202) 
+[LinkedIn](https://www.linkedin.com/in/m-v-nikhitha1202/) 
