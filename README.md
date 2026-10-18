@@ -1,6 +1,6 @@
 # 👋 Hi, I'm M V Nikhitha
 
-I’m a **Student Researcher at KIST (Korea Institute of Science and Technology)**, currently pursuing an **Integrated Master's & Ph.D. in AI & Robotics at UST, Seoul, South Korea**.
+I’m a **Student Researcher at KIST (Korea Institute of Science and Technology)**, currently pursuing an **Master's in AI & Robotics at UST, Seoul, South Korea**.
 
 🎓 Previously, I completed my **B.Tech in Computer Science & Engineering (AI & ML)** at **Christ University, Bangalore, India**.
 
